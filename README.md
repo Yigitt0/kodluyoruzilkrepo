@@ -18,4 +18,4 @@ Linux icin :
 Pull requestler kabul edilir. Buyuk degisiklikler icin lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
 
 # Lıcense 
-MIT
+[MIT]

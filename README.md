@@ -20,3 +20,4 @@ Pull requestler kabul edilir. Buyuk degisiklikler icin lutfen once neyi degistir
 
 # Lıcense 
 [MIT](https://github.com/Yigitt0/kodluyoruzilkrepo/blob/main/LICENSE)
+git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
